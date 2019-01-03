@@ -65,11 +65,11 @@ A giant nerd Castle 🤓🏰 and community of learners, educators, entrepreneurs
   
 
 ## Some Other Upcoming Events I'm Hosting:
-Jan. 5th (Sat) - [New Year, New You! Learn to Code in JavaScript Workshop](https://www.eventbrite.com/e/new-year-new-you-learn-to-code-in-javascript-workshop-tickets-53858117078)
-Jan. 7th (Mon) - [Intro to Computer Vision & Neural Nets!](https://www.eventbrite.com/e/intro-to-computer-vision-neural-nets-tickets-53659298406)
-Jan. 10th (Thur) - [Galvanize Phoenix: Data Science & Web Development Demo Day](https://www.eventbrite.com/e/galvanize-phoenix-data-science-web-development-demo-day-tickets-53856786097)
-Jan. 12th (Sat) - [2019 Beginner's Web Dev Workshop](https://www.eventbrite.com/e/2019-beginners-web-dev-workshop-tickets-53953049022)
-Jan. 15th (Tue) - [Learn to Code! Intro to SQL and Relational Databases](https://www.eventbrite.com/e/learn-to-code-intro-to-sql-and-relational-databases-tickets-54216286372)
+- Jan. 5th (Sat) - [New Year, New You! Learn to Code in JavaScript Workshop](https://www.eventbrite.com/e/new-year-new-you-learn-to-code-in-javascript-workshop-tickets-53858117078)
+- Jan. 7th (Mon) - [Intro to Computer Vision & Neural Nets!](https://www.eventbrite.com/e/intro-to-computer-vision-neural-nets-tickets-53659298406)
+- Jan. 10th (Thur) - [Galvanize Phoenix: Data Science & Web Development Demo Day](https://www.eventbrite.com/e/galvanize-phoenix-data-science-web-development-demo-day-tickets-53856786097)
+- Jan. 12th (Sat) - [2019 Beginner's Web Dev Workshop](https://www.eventbrite.com/e/2019-beginners-web-dev-workshop-tickets-53953049022)
+- Jan. 15th (Tue) - [Learn to Code! Intro to SQL and Relational Databases](https://www.eventbrite.com/e/learn-to-code-intro-to-sql-and-relational-databases-tickets-54216286372)
   
 
 
