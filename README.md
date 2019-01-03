@@ -59,9 +59,9 @@ Hello I'm [Chris Huie](https://www.facebook.com/chris.huie.14). I'm the Phoenix 
 
 ## About Galvanize:
 A giant nerd Castle 🤓🏰 and community of learners, educators, entrepreneurs, volunteers, and a lot more...
-  -Coworking: Open-seating, reserved desks, or suites for your business
-  -Education: We teach software engineering and data science for those looking to break into the fields
-  -Community/Events: We believe in impacting and investing in our community. We do that through events like this!
+  - Coworking: Open-seating, reserved desks, or suites for your business
+  - Education: We teach software engineering and data science for those looking to break into the fields
+  - Community/Events: We believe in impacting and investing in our community. We do that through events like this!
   
 
 ## Some Other Upcoming Events I'm Hosting:
