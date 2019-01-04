@@ -1,6 +1,7 @@
 # Learn to Code: Introduction to Python
 
-Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
+Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com) 
+or chat with [Lara Sadri](mailto:lara.sadri@galvanize.com) our Phoenix Admissions Advisor if you have questions.
 
 
 ### FAQ: 
