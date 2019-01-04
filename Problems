@@ -1,0 +1,10 @@
+1) Say "I Will Learn to Code in 2019" in Python (hint: use a function that starts with a p)
+
+2) Given an integer, , perform the following conditional actions:
+  - If  is odd, print Weird
+  - If  is even and in the inclusive range of  to , print Not Weird
+  - If  is even and in the inclusive range of  to , print Weird
+  - If  is even and greater than , print Not Weird
+  
+
+  
